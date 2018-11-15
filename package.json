@@ -1,0 +1,18 @@
+{
+  "name": "chat-example",
+  "version": "1.0.0",
+  "description": "New chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "chat"
+  },
+  "keywords": [
+    "Chat"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.1.1"
+  }
+}
